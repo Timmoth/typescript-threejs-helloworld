@@ -1,7 +1,7 @@
 # typescript-threejs-helloworld
 Simple hello world project for getting typescript &amp; threejs to work together
 
-[![Guide](https://img.shields.io/badge/live-demo-green?style=flat-square)](https://timmoth.com/posts/4bXP00vpw0-47cAokHTm5A)
+[![Guide](https://img.shields.io/badge/blog-guide-green?style=flat-square)](https://timmoth.com/posts/4bXP00vpw0-47cAokHTm5A)
 
 Clone
 ```
